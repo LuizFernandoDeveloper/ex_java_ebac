@@ -11,7 +11,7 @@ public class PhysicalPerson extends Person {
         this.healthExpense = healthExpense;
     }
     /**
-     * get helçthExpense
+     * get helthExpense
      * @return healthExpense
      */
     public Double getHealthExpense(){
